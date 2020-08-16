@@ -4,6 +4,8 @@ Black Cat is a 3D printer project to build a fully open source 3D printed UM2 pr
 
 This repository contains DWG and DXF for laser cut parts, STP files and STLs for the printed parts.
 
+Open Source with the help of [southern-dust](github.com/southern-dust).
+
 
 
 #### 中文说明
@@ -12,6 +14,8 @@ This repository contains DWG and DXF for laser cut parts, STP files and STLs for
 BlackCat 自主设计完全开源3D打印的UM2打印机，大部分部件采用3D打印件。
 
 这个 repo 包含用于激光切割零件的DWG和DXF文件，以及用于3D打印零件的STP和STL文件。
+
+在[southern-dust](github.com/southern-dust) 的帮助下开源。
 
 特别的，提供作者QQ群：713105644，欢迎来交流讨论。
 
