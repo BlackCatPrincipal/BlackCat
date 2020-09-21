@@ -29,3 +29,4 @@
 |     Z-Endstop-Mount      |  z限位固定支座  |
 |       motor-Spacer       |    电机支架     |
 | shaftBearing-Belt-holder | 直线轴承同步带  |
+|   PartCoolingFanMount    |    风扇支架     |
